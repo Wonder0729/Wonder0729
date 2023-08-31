@@ -2,7 +2,7 @@
 <br>
 <h3>I am a full-stack Rust developer with experience for 3+ years.<h3>
 <h3>Highly experienced developer with experience developing multiple backend APIs, CLI tools, and desktop applications using Rust, C/C++, Python, Golang, and JavaScript/TypeScript. Deep understanding of several system-level languages such as Rust, C/C++ and Golang. Rich knowledge of data structures and algorithms such as .</h3>
-<h3>Currently, I am working as Rust Dev at <a href="https://nobleblocks.org">@NobleBlocks</a><img src="./assets/nobleblocks.png" width="15" height="15" style="padding-left:5px"></h3>
+<h3>Currently, I am working as Rust Dev at <a href="https://nobleblocks.com">@NobleBlocks</a><img src="./assets/nobleblocks.png" width="15" height="15" style="padding-left:5px"></h3>
 
 <br>
 <h2 align="center">backend</h4>
